@@ -13,3 +13,5 @@
 [Mapa Mental 2](https://github.com/melslzr/Mineria-de-datos/blob/master/MapaMental_2_1679234.pdf)
 
 ## Fase II
+
+[Ejercicios Bases de datos](https://github.com/melslzr/Mineria-de-datos/blob/master/AnalisisBD_1679234.pdf)
