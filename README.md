@@ -11,3 +11,5 @@
 [Resumen de técnicas](https://github.com/melslzr/Mineria-de-datos/blob/master/Resumenes_1679234.pdf)
 
 [Mapa Mental 2](https://github.com/melslzr/Mineria-de-datos/blob/master/MapaMental_2_1679234.pdf)
+
+## Fase II
