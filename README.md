@@ -17,3 +17,6 @@
 [Ejercicios Bases de datos](https://github.com/melslzr/Mineria-de-datos/blob/master/AnalisisBD_1679234.pdf)
 
 [Ejercicios Basicos Python](https://github.com/melslzr/Mineria-de-datos/blob/master/PythonBasico_1679234.ipynb)
+
+[Avance 1 PIA](https://github.com/melslzr/Mineria-de-datos/blob/master/Avance1-PIA_5_002.pdf)
+
