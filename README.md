@@ -20,3 +20,5 @@
 
 [Avance 1 PIA](https://github.com/melslzr/Mineria-de-datos/blob/master/Avance1-PIA_5_002.pdf)
 
+[Limpieza Ejercicio](https://github.com/melslzr/Mineria-de-datos/blob/master/Limpieza.ipynb)
+
