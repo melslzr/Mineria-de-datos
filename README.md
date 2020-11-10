@@ -22,3 +22,4 @@
 
 [Limpieza Ejercicio](https://github.com/melslzr/Mineria-de-datos/blob/master/Limpieza.ipynb)
 
+[Visualización Ejercicio](https://github.com/melslzr/Mineria-de-datos/blob/master/Visualizaci%C3%B3n2.ipynb)
