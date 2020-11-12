@@ -25,3 +25,5 @@
 [Visualización Ejercicio](https://github.com/melslzr/Mineria-de-datos/blob/master/Visualizaci%C3%B3n2.ipynb)
 
 ## Fase III
+
+[Avance 2](https://github.com/mariannavila/FCFM/blob/master/AvancePIA_II_002_5.ipynb)
