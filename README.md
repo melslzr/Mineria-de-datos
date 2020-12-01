@@ -27,3 +27,5 @@
 ## Fase III
 
 [Avance 2 PIA](https://github.com/mariannavila/FCFM/blob/master/AvancePIA_II_002_5.ipynb)
+
+[PIA Poster](https://github.com/melslzr/Mineria-de-datos/blob/master/PIA_Poster_05.pdf)
